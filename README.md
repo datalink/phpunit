@@ -1,3 +1,5 @@
+ℹ️ This fork adds support for `symfony/yaml` version 5 in the `5.7.x-dev` release.
+
 # PHPUnit
 
 PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks.
